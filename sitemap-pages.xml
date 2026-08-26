@@ -21,16 +21,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/compare-001-7vrizp.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260705-581.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260719-0015.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -42,6 +32,76 @@
   </url>
   <url>
     <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260719-0017.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260719-0026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260721-0374.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0430.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0431.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0432.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/guide-002-1q3nbac.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/compare-001-7vrizp.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260705-581.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -86,11 +146,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260719-0026.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260719-0027.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -111,27 +166,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260721-0374.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260721-0375.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0430.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0431.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0432.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -172,46 +207,6 @@
   </url>
   <url>
     <loc>https://gongdeok-song-note.link-hub.org/posts/gemini-coverage-20260722-0440.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/guide-002-1q3nbac.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gongdeok-song-note.link-hub.org/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
